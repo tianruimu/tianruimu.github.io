@@ -13,7 +13,9 @@ I study applied microeconomics of scientific and technological innovations.
 
 My PhD advisors are [Hyejin Ku](https://sites.google.com/site/hyejku/) and [Ben Deaner](https://bendeaner.wordpress.com/). I am affiliated with the [Centre for Research and Analysis of Migration (CReAM)](https://www.cream-migration.org/).
 
-Please find my CV [here](/files/cv.pdf). You can reach me via email at: edwin.mu.17 [at] ucl.ac.uk
+Please find my CV [here](/files/cv.pdf). 
+
+You can reach me via email at: edwin.mu.17 [at] ucl.ac.uk
 
 Work in progress
 ======
